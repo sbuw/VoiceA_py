@@ -8,3 +8,7 @@ Dependencies:
 	pip install pyqt5
 
 	num2t4ru( download https://github.com/Yuego/num2t4ru | cd .../num2t4ru | python setup.py install)
+
+Work:
+
+    python gui.py
